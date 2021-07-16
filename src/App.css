@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+.react-chatbot-kit-chat-bot-avatar {
+  background-image: url("./botlogo.PNG");
+  background-repeat: no-repeat;
+    background-size: 53px 58px;
+    left: -10px;
+    position: relative;
+}
+.react-chatbot-kit-chat-bot-avatar-container {
+  visibility: hidden;
+}
+.react-chatbot-kit-chat-header{
+  background-image: url("./bot.png");
+  background-repeat: no-repeat;
+    background-size: 50px 40px;    
+    justify-content: center;
+    padding-left: 35px;
+}
